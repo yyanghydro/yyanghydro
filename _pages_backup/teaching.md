@@ -12,3 +12,5 @@ ENVSCI 305 Hydrology (2026 Spring)
 ENVSTY 116L Quantitative Reasoning and the Environment (2026 Spring)
 
 ENVSCI 383 Water Resources Management: Principles, practices, and problems. (2026 Fall)
+
+
