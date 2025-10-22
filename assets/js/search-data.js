@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -16,15 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-m-pleased-to-announce-i-have-joined-the-university-of-massachusetts-boston-school-for-the-environment-as-an-assistant-professor-and-am-currently-recruiting-a-phd-student-prospective-applicants-with-interests-in-hydrology-stormwater-management-hydrological-modeling-or-related-areas-are-encouraged-to-get-in-touch-if-you-re-interested-please-contact-me",
-          title: 'I’m pleased to announce I have joined the University of Massachusetts Boston, School...',
-          description: "",
-          section: "News",},{
+        },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
