@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, School for the Environment, University of Massachusetts Boston • Hydrology • Urban hydrology • Data-driven modeling)
+subtitle: Yang Yang, Assistant Professor, School for the Environment, University of Massachusetts Boston)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false
   more_info: >
     <p>School for the Environment, UMass Boston</p>
@@ -19,21 +19,21 @@ social: false
 
 I am an Assistant Professor in the School for the Environment at the University of Massachusetts Boston. My research focuses on hydrology modeling and urban hydrology, developing and using various numerical modeling tools to improve prediction, interpretation, and decision support for sustainable stormwater management and water resources systems.
 
-- Google Scholar: <a href="https://scholar.google.com" target="_blank" rel="noopener">Profile</a>
+- Google Scholar: <a href="https://scholar.google.com/citations?user=MwOs6FMAAAAJ" target="_blank" rel="noopener">Profile</a>
 
 
-Open position: PhD student (hydrological modeling/urban hydrology)
+**Open position**: 1 PhD student (hydrological modeling/urban hydrology)
 - I am recruiting a PhD student with background in hydrology, hydrological modeling, urban hydrology, statistics, and data-driven modeling.
 - How to apply: Please email me your CV and a simple cover letter explaining your background and interests.
 
 
-Selected publications
+**Selected publications**
 - Yang, Y. and Chui, T.F.M. Profiling and pairing catchments and hydrological models with a latent factor model. Water Resources Research, 59, e2022WR033684 (2023). https://doi.org/10.1029/2022WR033684
 - Yang, Y. and Chui, T.F.M. Reliability assessment of machine learning models in hydrological predictions through metamorphic testing. Water Resources Research, 57, e2020WR029471 (2021). https://doi.org/10.1029/2020WR029471 .pdf
 - Yang, Y. and Chui, T.F.M. Modeling and interpreting hydrological responses of sustainable urban drainage systems with explainable machine learning methods. Hydrology and Earth System Sciences, 25, 5839–5858 (2021). https://doi.org/10.5194/hess-25-5839-2021
 
 
-Software and tools
+**Software and tools**
 - Generative hydrological models: lumped model generator and calibration tool (Streamlit apps).  
   - https://generative-hydrological-prediction.streamlit.app/  
   - https://generative-hydrological-calibration.streamlit.app/
