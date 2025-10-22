@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Modeling for Sustainable Water Resources Lab # the website title (if blank, full name will be used instead)
+title: Water Resource Sustainability Lab # the website title (if blank, full name will be used instead)
 first_name: Yang
 middle_name:
 last_name: Yang
@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Yang]
+  first_name: [Yang]
 
   style: apa
   locale: en

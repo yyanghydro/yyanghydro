@@ -10,10 +10,10 @@ selected_papers: false
 social: false
 ---
 
-I am an Assistant Professor in the School for the Environment at the University of Massachusetts Boston. My research focuses on hydrology modeling and urban hydrology, developing and using various numerical modeling tools to improve prediction, interpretation, and decision support for sustainable water resources management.
+I am an Assistant Professor in the School for the Environment at the University of Massachusetts Boston. My research focuses on hydrology modeling and urban hydrology. I develop and use various numerical modeling tools to improve the prediction, interpretation, and decision-making processes involved in sustainable water resources management.
 
 - Google Scholar: <a href="https://scholar.google.com/citations?user=MwOs6FMAAAAJ" target="_blank" rel="noopener">Profile</a>
-
+- UMass Boston Webpage: <a href="https://www.umb.edu/directory/yangyang/" target="_blank" rel="noopener">Profile</a>
 
 **Open position**: 1 PhD student (hydrological modeling/urban hydrology)
 - I am recruiting a PhD student with background in hydrology, hydrological modeling, urban hydrology, statistics, and data-driven modeling.
@@ -34,6 +34,7 @@ I am an Assistant Professor in the School for the Environment at the University 
 
 - Toolbox for coupling green infrastructure models with EPA SWMM: [swmm_gi_toolbox](https://stsfk.github.io/swmm_gi_toolbox/index.html)
 
+---
 
 **Contact**
 
