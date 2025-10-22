@@ -4,20 +4,13 @@ title: about
 permalink: /
 subtitle: Yang Yang, Assistant Professor, School for the Environment, University of Massachusetts Boston)
 
-profile:
-  align: right
-  image: 
-  image_circular: false
-  more_info: >
-    <p>School for the Environment, UMass Boston</p>
-    <p>100 Morrissey Blvd, Boston, MA 02125, USA</p>
-    <p><a href="mailto:yang.yang@umb.edu">yang.yang@umb.edu</a></p>
+profile: false
 
 selected_papers: false
 social: false
 ---
 
-I am an Assistant Professor in the School for the Environment at the University of Massachusetts Boston. My research focuses on hydrology modeling and urban hydrology, developing and using various numerical modeling tools to improve prediction, interpretation, and decision support for sustainable stormwater management and water resources systems.
+I am an Assistant Professor in the School for the Environment at the University of Massachusetts Boston. My research focuses on hydrology modeling and urban hydrology, developing and using various numerical modeling tools to improve prediction, interpretation, and decision support for sustainable water resources management.
 
 - Google Scholar: <a href="https://scholar.google.com/citations?user=MwOs6FMAAAAJ" target="_blank" rel="noopener">Profile</a>
 
@@ -38,3 +31,9 @@ I am an Assistant Professor in the School for the Environment at the University 
   - https://generative-hydrological-prediction.streamlit.app/  
   - https://generative-hydrological-calibration.streamlit.app/
 - Toolbox for coupling green infrastructure models with EPA SWMM: https://stsfk.github.io/swmm_gi_toolbox/index.html
+
+
+## Contact
+School for the Environment, UMass Boston  
+100 Morrissey Blvd, Boston, MA 02125, USA  
+<a href="mailto:yang.yang@umb.edu">yang.yang@umb.edu</a>
