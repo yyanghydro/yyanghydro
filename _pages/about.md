@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Yang Yang, Assistant Professor, School for the Environment, University of Massachusetts Boston)
+subtitle: Yang Yang, Assistant Professor, School for the Environment, University of Massachusetts Boston
 
 profile: false
 
@@ -29,13 +29,14 @@ I am an Assistant Professor in the School for the Environment at the University 
 **Software and tools**
 
 - Generative hydrological models: lumped model generator and calibration tool (Streamlit apps)  
-  - [Generative Hydrological Prediction (Streamlit app)](https://generative-hydrological-prediction.streamlit.app/)  
-  - [Generative Hydrological Calibration (Streamlit app)](https://generative-hydrological-calibration.streamlit.app/)
+  - [Prediction (Streamlit app)](https://generative-hydrological-prediction.streamlit.app/)  
+  - [Calibration (Streamlit app)](https://generative-hydrological-calibration.streamlit.app/)
 
 - Toolbox for coupling green infrastructure models with EPA SWMM: [swmm_gi_toolbox](https://stsfk.github.io/swmm_gi_toolbox/index.html)
 
 
 **Contact**
+
 School for the Environment, UMass Boston  
 100 Morrissey Blvd, Boston, MA 02125, USA  
 <a href="mailto:yang.yang@umb.edu">yang.yang@umb.edu</a>
