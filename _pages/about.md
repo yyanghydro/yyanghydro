@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: PI: Yang Yang, Assistant Professor, School for the Environment, University of Massachusetts Boston
+subtitle: 
 
 profile: false
 
 selected_papers: false
 social: false
 ---
+PI: Yang Yang, Assistant Professor, School for the Environment, University of Massachusetts Boston
 
 I am an Assistant Professor in the School for the Environment at the University of Massachusetts Boston, and my research focuses on hydrology modeling and urban hydrology. I develop and apply numerical models to improve predictions of water quantity and quality and to inform decision-making for sustainable water-resources management.
 

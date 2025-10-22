@@ -11,6 +11,6 @@ ENVSCI 305 Hydrology
 
 ENVSTY 116L Quantitative Reasoning and the Environment 
 
-ENVSCI 383 Water Resources Management: Principles, practices, and problems
+ENVSCI 383 Water Resources Management: Principles, Practices, and Problems
 
 ---
